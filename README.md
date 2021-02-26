@@ -1,3 +1,3 @@
 # Ubuntu
 ## > Ubuntu says “bash: ./program Permission denied”
-### => chmod u+x program_nam
+##### => chmod u+x program_nam
